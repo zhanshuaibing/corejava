@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="479182e6-cdee-4169-a803-1c679f472c3b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corejava.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/gutenberg/alice30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/gutenberg/crsto10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/Cay.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/ImageViewer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/ImageViewer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/ImageViewerFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/ImageViewerFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/ImageViewerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/Tower.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/ImageViewer/mug.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/Welcome/Welcome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/WelcomeApplet/WelcomeApplet$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/WelcomeApplet/WelcomeApplet$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/WelcomeApplet/WelcomeApplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/WelcomeApplet/WelcomeApplet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch02/WelcomeApplet/java.policy.applet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/BigIntegerTest/BigIntegerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/CompoundInterest/CompoundInterest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/FirstSample/FirstSample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/InputTest/InputTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/LotteryArray/LotteryArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/LotteryDrawing/LotteryDrawing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/LotteryOdds/LotteryOdds.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/Retirement/Retirement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch03/Retirement2/Retirement2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/CalendarTest/CalendarTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/ConstructorTest/ConstructorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/ConstructorTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/EmployeeTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/EmployeeTest/EmployeeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/PackageTest/PackageTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/PackageTest/com/horstmann/corejava/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/ParamTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/ParamTest/ParamTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/StaticTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch04/StaticTest/StaticTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ArrayGrowTest/ArrayGrowTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ArrayListTest/ArrayListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ArrayListTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/EnumTest/EnumTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/EnumTest/Size.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/EqualsTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/EqualsTest/EqualsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/EqualsTest/Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ManagerTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ManagerTest/Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ManagerTest/ManagerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/MethodPointerTest/MethodPointerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ObjectAnalyzerTest/ObjectAnalyzer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ObjectAnalyzerTest/ObjectAnalyzerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/PersonTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/PersonTest/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/PersonTest/PersonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/PersonTest/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch05/ReflectionTest/ReflectionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/AnonymousInnerClassTest/AnonymousInnerClassTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/AnonymousInnerClassTest/TalkingClock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/CloneTest/CloneTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/CloneTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/EmployeeSortTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/EmployeeSortTest/EmployeeSortTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/InnerClassTest/InnerClassTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/InnerClassTest/TalkingClock$TimePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/InnerClassTest/TalkingClock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/LocalInnerClassTest/LocalInnerClassTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/LocalInnerClassTest/TalkingClock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/ProxyTest/ProxyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/ProxyTest/TraceHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/StaticInnerClassTest/ArrayAlg$Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/StaticInnerClassTest/ArrayAlg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/StaticInnerClassTest/StaticInnerClassTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/TimerTest/TimePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch06/TimerTest/TimerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/DrawTest/DrawComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/DrawTest/DrawFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/DrawTest/DrawTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/FillTest/FillComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/FillTest/FillFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/FillTest/FillTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/FontTest/FontComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/FontTest/FontFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/FontTest/FontTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/ImageTest/ImageComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/ImageTest/ImageFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/ImageTest/ImageTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/ImageTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/ListFonts/ListFonts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/NotHelloWorld/NotHelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/NotHelloWorld/NotHelloWorldComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/NotHelloWorld/NotHelloWorldFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/SimpleFrameTest/SimpleFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/SimpleFrameTest/SimpleFrameTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/SizedFrameTest/SizedFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/SizedFrameTest/SizedFrameTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch07/SizedFrameTest/icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ActionTest/ActionFrame$ColorAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ActionTest/ActionFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ActionTest/ActionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ActionTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ActionTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ActionTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ButtonTest/ButtonFrame$ColorAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ButtonTest/ButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/ButtonTest/ButtonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/MouseTest/MouseComponent$MouseHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/MouseTest/MouseComponent$MouseMotionHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/MouseTest/MouseComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/MouseTest/MouseFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/MouseTest/MouseTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/PlafTest/PlafFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch08/PlafTest/PlafTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/BorderTest/BorderFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/BorderTest/BorderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/Calculator/Calculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/Calculator/CalculatorFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/Calculator/CalculatorPanel$CommandAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/Calculator/CalculatorPanel$InsertAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/Calculator/CalculatorPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/CheckBoxTest/CheckBoxFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/CheckBoxTest/CheckBoxTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/CircleLayoutTest/CircleLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/CircleLayoutTest/CircleLayoutFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/CircleLayoutTest/CircleLayoutTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ColorChooserTest/ColorChooserFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ColorChooserTest/ColorChooserPanel$ImmediateListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ColorChooserTest/ColorChooserPanel$ModalListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ColorChooserTest/ColorChooserPanel$ModelessListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ColorChooserTest/ColorChooserPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ColorChooserTest/ColorChooserTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ComboBoxTest/ComboBoxFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ComboBoxTest/ComboBoxTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DataExchangeTest/DataExchangeFrame$ConnectAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DataExchangeTest/DataExchangeFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DataExchangeTest/DataExchangeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DataExchangeTest/PasswordChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DataExchangeTest/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DialogTest/AboutDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DialogTest/DialogFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/DialogTest/DialogTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/FileChooserTest/FileChooserTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/FileChooserTest/FileIconView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/FileChooserTest/ImagePreviewer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/FileChooserTest/ImageViewerFrame$FileOpenListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/FileChooserTest/ImageViewerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/FileChooserTest/palette.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GridBagLayoutTest/FontFrame$FontAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GridBagLayoutTest/FontFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GridBagLayoutTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GridBagLayoutTest/GridBagLayoutTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GroupLayoutTest/FontFrame$FontAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GroupLayoutTest/FontFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/GroupLayoutTest/GroupLayoutTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/MenuTest/MenuFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/MenuTest/MenuTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/MenuTest/TestAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/MenuTest/copy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/MenuTest/cut.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/MenuTest/paste.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/ButtonPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/OptionDialogFrame$ShowAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/OptionDialogFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/OptionDialogTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/SampleComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/OptionDialogTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/RadioButtonTest/RadioButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/RadioButtonTest/RadioButtonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/SliderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/SliderTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/ace.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/jack.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/king.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/nine.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/queen.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/SliderTest/ten.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/TextComponentTest/TextComponentFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/TextComponentTest/TextComponentTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/ToolBarFrame$ColorAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/ToolBarFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/ToolBarTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/exit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch09/ToolBarTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/AppletApplication/AppletApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/AppletApplication/AppletApplication.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/AppletApplication/AppletFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/AppletApplication/NotHelloWorldApplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/AppletApplication/java.policy.applet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/Chart/Chart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/Chart/Chart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/Chart/ChartComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/Chart/java.policy.applet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/NotHelloWorldApplet/NotHelloWorldApplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/NotHelloWorldApplet/NotHelloWorldApplet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/PreferencesTest/PreferencesFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/PreferencesTest/PreferencesTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/PropertiesTest/PropertiesFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/PropertiesTest/PropertiesTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/ResourceTest/ResourceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/ResourceTest/ResourceTest.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/ResourceTest/ResourceTest.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/ResourceTest/ResourceTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/ResourceTest/about.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/ResourceTest/about.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/SystemInfo/SystemInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/CalculatorFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/CalculatorPanel$CommandAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/CalculatorPanel$InsertAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/CalculatorPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/WebStartCalculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/WebStartCalculator.jnlp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/WebStartCalculator.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/calc_icon32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch10/WebStartCalculator/calc_icon64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/BuggyButtonTest/BuggyButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/BuggyButtonTest/BuggyButtonPanel$ButtonListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/BuggyButtonTest/BuggyButtonPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/BuggyButtonTest/BuggyButtonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ConsoleWindowTest/ButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ConsoleWindowTest/ButtonPanel$ColorAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ConsoleWindowTest/ButtonPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ConsoleWindowTest/ConsoleWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ConsoleWindowTest/ConsoleWindowTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/EventTracerTest/EventTracer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/EventTracerTest/EventTracerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/EventTracerTest/EventTracerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ExceptTest/ExceptTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ExceptTest/ExceptTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ExceptTest/ExceptTestPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ExceptTest/manifest.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/ExceptionalTest/ExceptionalTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/LoggingImageViewer/ImageViewerFrame$FileOpenListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/LoggingImageViewer/ImageViewerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/LoggingImageViewer/LoggingImageViewer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/LoggingImageViewer/WindowHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/RobotTest/ButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/RobotTest/ButtonPanel$ColorAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/RobotTest/ButtonPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/RobotTest/ImageFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/RobotTest/RobotTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch11/StackTraceTest/StackTraceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/GenericReflectionTest/GenericReflectionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest1/ArrayAlg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest1/Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest1/PairTest1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest2/ArrayAlg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest2/Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest2/PairTest2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest3/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest3/Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest3/Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest3/PairAlg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch12/PairTest3/PairTest3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/CircularArrayQueueTest/CircularArrayQueue$QueueIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/CircularArrayQueueTest/CircularArrayQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/CircularArrayQueueTest/CircularArrayQueueTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/LinkedListTest/LinkedListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/MapTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/MapTest/MapTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/PriorityQueueTest/PriorityQueueTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/SetTest/SetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/ShuffleTest/ShuffleTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/Sieve/Sieve.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/Sieve/Sieve.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/Sieve/Sieve2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/TreeSetTest/Item.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch13/TreeSetTest/TreeSetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/AlgorithmAnimation/AlgorithmAnimation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/AlgorithmAnimation/AnimationFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/AlgorithmAnimation/ArrayComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/AlgorithmAnimation/Sorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BlockingQueueTest/BlockingQueueTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BlockingQueueTest/FileEnumerationTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BlockingQueueTest/SearchTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/Bounce/Ball.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/Bounce/BallComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/Bounce/Bounce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/Bounce/BounceFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BounceThread/Ball.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BounceThread/BallComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BounceThread/BallRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BounceThread/BounceFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/BounceThread/BounceThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/FutureTest/FutureTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/FutureTest/MatchCounter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingThreadTest/BadWorkerRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingThreadTest/GoodWorkerRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingThreadTest/SwingThreadFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingThreadTest/SwingThreadTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingWorkerTest/SwingWorkerFrame$ProgressData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingWorkerTest/SwingWorkerFrame$TextReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingWorkerTest/SwingWorkerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SwingWorkerTest/SwingWorkerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SynchBankTest/Bank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SynchBankTest/SynchBankTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SynchBankTest/TransferRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SynchBankTest2/Bank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SynchBankTest2/SynchBankTest2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/SynchBankTest2/TransferRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/ThreadPoolTest/MatchCounter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/ThreadPoolTest/ThreadPoolTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/UnsynchBankTest/Bank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/UnsynchBankTest/TransferRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v1ch14/UnsynchBankTest/UnsynchBankTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/FindDirectories/FindDirectories.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/HrefMatch/HrefMatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/NIO/NIOTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ObjectStreamTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ObjectStreamTest/Manager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ObjectStreamTest/ObjectStreamTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ObjectStreamTest/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/RandomFileTest/DataIO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/RandomFileTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/RandomFileTest/RandomFileTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/RegExTest/RegExTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/SerialCloneTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/SerialCloneTest/SerialCloneTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/SerialCloneTest/SerialCloneable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/TextFileTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/TextFileTest/TextFileTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/TextFileTest/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTestFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTestFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTestFrame$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch01/ZipTest/ZipTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeCellRenderer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeCellRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/DOMTreeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/DOMTreeTest/server.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/FontFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/FontFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/GridBagPane.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/GridBagTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/GridBagTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/fontdialog-schema.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/fontdialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/gridbag.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/GridBagTest/gridbag.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/SAXTest/SAXTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/SAXTest/SAXTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/StAXTest/StAXTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/TransformTest/EmployeeReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/TransformTest/TransformTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/TransformTest/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/TransformTest/makehtml.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/TransformTest/makeprop.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/RectangleComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XMLWriteTest/XMLWriteTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/XPathTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/fontdialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch02/XPathTest/gridbag.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/EchoServer/EchoServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InetAddressTest/InetAddressTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$TestServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame$TestServerHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/InterruptibleSocketTest/InterruptibleSocketTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/MailTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/MailTest/MailTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/MailTest/MailTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/MailTest/MailTestFrame$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/MailTest/MailTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/MailTest/MailTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/PostTest/PostTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/PostTest/PostTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/PostTest/PostTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/PostTest/PostTestFrame$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/PostTest/PostTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/PostTest/PostTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/SocketTest/SocketTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/ThreadedEchoServer/ThreadedEchoHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/ThreadedEchoServer/ThreadedEchoServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/URLConnectionTest/Base64OutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch03/URLConnectionTest/URLConnectionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ExecSQL/Authors.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ExecSQL/Books.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ExecSQL/BooksAuthors.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ExecSQL/ExecSQL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ExecSQL/Publishers.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ExecSQL/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/LDAPTest/DataPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/LDAPTest/LDAPFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/LDAPTest/LDAPTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/LDAPTest/ldapserver.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/LDAPTest/sample.ldif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/QueryDB/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/QueryDB/QueryDB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/QueryDB/QueryDBFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/QueryDB/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/TestDB/TestDB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/TestDB/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ViewDB/DataPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ViewDB/ViewDB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ViewDB/ViewDBFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch04/ViewDB/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/CollationFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/CollationFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/CollationFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/CollationFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/CollationTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/CollationTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/EnumCombo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/CollationTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/DateFormatTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/EnumCombo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/DateFormatTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/NumberFormatFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/NumberFormatFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/NumberFormatFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/NumberFormatFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/NumberFormatTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/NumberFormatTest/NumberFormatTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/LocaleCombo$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/LocaleCombo$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/LocaleCombo$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/LocaleCombo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/Retire$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/Retire$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/Retire$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/Retire.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/Retire.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireCanvas.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireResources.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireResources_de.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireResources_zh.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireStrings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireStrings_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch05/Retire/RetireStrings_zh.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ChangeTrackingTest/ChangeTrackingTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ChangeTrackingTest/ColorFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ClassTree/ClassNameTreeCellRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ClassTree/ClassTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ClassTree/ClassTreeFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ClassTree/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ClassTree/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ClassTree/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/EditorPaneTest/EditorPaneFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/EditorPaneTest/EditorPaneTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/FormatTest/FormatTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/FormatTest/FormatTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/FormatTest/FormattedTextFieldVerifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/FormatTest/IPAddressFormatter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/FormatTest/IntFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/DesktopFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/InternalFrameTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InternalFrameTest/document.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InvestmentTable/InvestmentTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InvestmentTable/InvestmentTableFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/InvestmentTable/InvestmentTableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ListRenderingTest/FontCellRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ListRenderingTest/ListRenderingFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ListRenderingTest/ListRenderingTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ListTest/ListFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ListTest/ListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/LongListTest/LongListFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/LongListTest/LongListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/LongListTest/WordListModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ObjectInspectorTest/ObjectInspectorFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ObjectInspectorTest/ObjectInspectorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ObjectInspectorTest/ObjectTreeModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ObjectInspectorTest/Variable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressBarTest/ProgressBarFrame$SimulatedActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressBarTest/ProgressBarFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressBarTest/ProgressBarTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressMonitorInputStreamTest/ProgressMonitorInputStreamTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressMonitorInputStreamTest/TextFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressMonitorTest/ProgressMonitorFrame$SimulatedActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressMonitorTest/ProgressMonitorFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/ProgressMonitorTest/ProgressMonitorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SimpleTree/SimpleTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SimpleTree/SimpleTreeFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SpinnerTest/PermutationSpinnerModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SpinnerTest/SpinnerFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SpinnerTest/SpinnerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Planet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/SplitPaneFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/SplitPaneTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/SplitPaneTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/TabbedPaneFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/TabbedPaneTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TabbedPaneTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/ColorTableCellEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/ColorTableCellRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Moons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/PlanetTableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/TableCellRenderFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/TableCellRenderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableCellRenderTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/PlanetTableFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/TableRowColumnTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableRowColumnTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableTest/PlanetTableFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TableTest/TableTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TreeEditTest/TreeEditFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch06/TreeEditTest/TreeEditTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/Banner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/BookTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/BookTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/BookTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/BookTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/BookTestFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/BookTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/CoverPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/PrintPreviewCanvas.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/PrintPreviewDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/PrintPreviewDialog$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/PrintPreviewDialog$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/BookTest/PrintPreviewDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/CompositeComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/CompositeTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/CompositeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/CompositeTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/CompositeTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/CompositeTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/CompositeTest/Rule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/DesktopAppTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/DesktopAppTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/ImageIOFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/ImageIOFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/ImageIOFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/ImageIOFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/ImageIOTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/ImageIOTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageIOTest/e-mail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/ImageList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/ImageListDnDFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/ImageListDnDTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/ImageListDnDTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/ImageListTransferHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/ImageTransferable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200701.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200702.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200703.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200704.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200705.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200706.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200707.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images1/200709.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images2/front.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageListDnDTest/images2/side.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/ImageProcessingTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/cj2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageProcessingTest/cj8v2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/ImageTransferFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/ImageTransferFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/ImageTransferFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/ImageTransferTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/ImageTransferTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/ImageTransferable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ImageTransferTest/cj2v1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintServiceTest/PrintServiceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintTest/PrintComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintTest/PrintTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintTest/PrintTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintTest/PrintTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintTest/PrintTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/PrintTest/PrintTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RasterImageTest/RasterImageFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RasterImageTest/RasterImageTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RasterImageTest/RasterImageTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/RenderQualityComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/RenderQualityTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/RenderQualityTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/RenderQualityTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/RenderQualityTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/RenderQualityTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/clouds.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/RenderQualityTest/face.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SerialTransferTest/SerialTransferFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SerialTransferTest/SerialTransferFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SerialTransferTest/SerialTransferFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SerialTransferTest/SerialTransferTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SerialTransferTest/SerialTransferTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SerialTransferTest/SerialTransferable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ArcMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/CubicCurveMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/EllipseMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/LineMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/PolygonMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/QuadCurveMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/RectangleMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/RoundRectangleMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeComponent$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeComponent$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/ShapeTest/ShapeTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SplashScreenTest/SplashScreenTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SplashScreenTest/SplashScreenTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SplashScreenTest/SplashScreenTest$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SplashScreenTest/SplashScreenTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SplashScreenTest/bin/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SplashScreenTest/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeComponent$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeComponent$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeTestFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeTestFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeTestFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/StrokeTest/StrokeTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SwingDnDTest/SampleComponents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SwingDnDTest/SwingDnDFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SwingDnDTest/SwingDnDFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SwingDnDTest/SwingDnDTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SwingDnDTest/SwingDnDTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SystemTrayTest/SystemTrayTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SystemTrayTest/SystemTrayTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SystemTrayTest/SystemTrayTest$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SystemTrayTest/SystemTrayTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SystemTrayTest/cookie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/SystemTrayTest/fortunes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/TextTransferTest/TextTransferFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/TextTransferTest/TextTransferFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/TextTransferTest/TextTransferFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/TextTransferTest/TextTransferTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch07/TextTransferTest/TextTransferTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/ChartBean.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/ChartBean.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean$Position.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBeanBeanInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_COLOR_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_COLOR_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_INVERSE_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_MONO_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_MONO_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/DoubleArrayEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/DoubleArrayEditorPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/DoubleArrayListModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/InverseEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/InverseEditorPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ChartBean/com/horstmann/corejava/TitlePositionEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/ChartBean2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/ChartBean2.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2$Position.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2BeanInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2Customizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_COLOR_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_COLOR_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_MONO_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_MONO_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/DamageReporter/DamageReport$CarType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/DamageReporter/DamageReport.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/DamageReporter/DamageReporter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/DamageReporter/foo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/FileNameBean/FileNameBean.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/FileNameBean/FileNameBean.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/FileNameBean/com/horstmann/corejava/FileNameBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ImageViewerBean/ImageViewerBean.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ImageViewerBean/ImageViewerBean.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ImageViewerBean/clouds.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/ImageViewerBean/com/horstmann/corejava/ImageViewerBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/PersistenceDelegateTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/PersistenceDelegateTest/PersistenceDelegateTest$Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/PersistenceDelegateTest/PersistenceDelegateTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/PersistentFrameTest/PersistentFrameTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch08/PersistentFrameTest/test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AESTest/AESTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AuthTest/AuthTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AuthTest/AuthTest.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AuthTest/SysPropAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AuthTest/action.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AuthTest/jaas.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/AuthTest/login.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/CertificateSigner/CertificateSigner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/Caesar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/Calculator.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/CalculatorFrame.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/CalculatorPanel$1.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/CalculatorPanel$CommandAction.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/CalculatorPanel$InsertAction.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/CalculatorPanel.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/ClassLoaderFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/ClassLoaderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/CryptoClassLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/ClassLoaderTest/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/FileReadApplet/FileReadApplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/FileReadApplet/FileReadApplet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/FileReadApplet/FileReadApplet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/FileReadApplet/applet.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/JAASFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/JAASTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/JAASTest.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/SimpleCallbackHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/SimpleLoginModule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/SimplePrincipal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/SysPropAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/action.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/jaas.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/login.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/JAASTest/password.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/MessageDigestTest/MessageDigestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/MessageDigestTest/MessageDigestTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/PermissionTest/PermissionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/PermissionTest/PermissionTest.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/PermissionTest/PermissionTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/PermissionTest/WordCheckPermission.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/PermissionTest/WordCheckTextArea.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/RSATest/RSATest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/SignatureTest/SignatureTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/VerifierTest/VerifierTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch09/VerifierTest/VerifierTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/Warehouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/WarehouseActivator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/WarehouseClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/WarehouseImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/client.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/rmid.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Activation/server.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse1/Warehouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse1/WarehouseClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse1/WarehouseImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse1/WarehouseServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse1/client.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/Product.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/Warehouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/WarehouseClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/WarehouseImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/WarehouseServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/client.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/Warehouse2/server.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/WebService1/WarehouseClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/WebService1/com/horstmann/corejava/Warehouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/WebService1/com/horstmann/corejava/WarehouseServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/WebService2/AmazonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/WebService2/AmazonTestFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch10/WebService2/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ActionListenerFor/ActionListenerFor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ActionListenerFor/ActionListenerInstaller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ActionListenerFor/ButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ActionListenerFor/ButtonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/CompilerTest/ByteArrayJavaClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/CompilerTest/CompilerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/CompilerTest/MapClassLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/CompilerTest/StringBuilderJavaSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/CompilerTest/action.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/CompilerTest/com/horstmann/corejava/ButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/EntryLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/EntryLoggingAgent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/EntryLoggingAgent.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/EntryLoggingAgent.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/Item.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/LogEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/SetTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/LogEntry/bcel-5.3-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/BeanInfoAnnotationProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/annotations/Property.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean$Position.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBeanBeanInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean_COLOR_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean_COLOR_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean_INVERSE_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean_MONO_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/ChartBean_MONO_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/DoubleArrayEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/DoubleArrayEditorPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/DoubleArrayListModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/GBC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/InverseEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/InverseEditorPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/Property/com/horstmann/corejava/TitlePositionEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ScriptTest/ButtonFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ScriptTest/ScriptTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ScriptTest/groovy.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ScriptTest/init.sisc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ScriptTest/js.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch11/ScriptTest/sisc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/EmployeeTest/Employee.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/EmployeeTest/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/EmployeeTest/EmployeeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/HelloNativeTest/HelloNative.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/HelloNativeTest/HelloNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/HelloNativeTest/HelloNative.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/HelloNativeTest/HelloNativeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/InvocationTest/InvocationTest.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/InvocationTest/Welcome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf1Test/Printf1.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf1Test/Printf1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf1Test/Printf1Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf2Test/Printf2.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf2Test/Printf2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf2Test/Printf2Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf3Test/Printf3.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf3Test/Printf3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf3Test/Printf3Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf4Test/Printf4.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf4Test/Printf4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Printf4Test/Printf4Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Win32RegKeyTest/Win32RegKey.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Win32RegKeyTest/Win32RegKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Win32RegKeyTest/Win32RegKeyException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Win32RegKeyTest/Win32RegKeyNameEnumeration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/v2ch12/Win32RegKeyTest/Win32RegKeyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gutenberg/alice30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gutenberg/crsto10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/ImageViewer/Cay.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/ImageViewer/ImageViewer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/ImageViewer/Tower.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/ImageViewer/mug.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/Welcome/Welcome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/WelcomeApplet/WelcomeApplet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/WelcomeApplet/WelcomeApplet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch02/WelcomeApplet/java.policy.applet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/BigIntegerTest/BigIntegerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/CompoundInterest/CompoundInterest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/FirstSample/FirstSample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/InputTest/InputTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/LotteryArray/LotteryArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/LotteryDrawing/LotteryDrawing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/LotteryOdds/LotteryOdds.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/Retirement/Retirement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch03/Retirement2/Retirement2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/CalendarTest/CalendarTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/ConstructorTest/ConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/EmployeeTest/EmployeeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/PackageTest/PackageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/PackageTest/com/horstmann/corejava/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/ParamTest/ParamTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch04/StaticTest/StaticTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/ArrayGrowTest/ArrayGrowTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/ArrayListTest/ArrayListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/EnumTest/EnumTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/EqualsTest/EqualsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/ManagerTest/ManagerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/MethodPointerTest/MethodPointerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/ObjectAnalyzerTest/ObjectAnalyzerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/PersonTest/PersonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch05/ReflectionTest/ReflectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/AnonymousInnerClassTest/AnonymousInnerClassTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/CloneTest/CloneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/EmployeeSortTest/EmployeeSortTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/InnerClassTest/InnerClassTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/LocalInnerClassTest/LocalInnerClassTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/ProxyTest/ProxyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/StaticInnerClassTest/StaticInnerClassTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch06/TimerTest/TimerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/DrawTest/DrawTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/FillTest/FillTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/FontTest/FontTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/ImageTest/ImageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/ImageTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/ListFonts/ListFonts.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/NotHelloWorld/NotHelloWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/SimpleFrameTest/SimpleFrameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/SizedFrameTest/SizedFrameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch07/SizedFrameTest/icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/ActionTest/ActionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/ActionTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/ActionTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/ActionTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/ButtonTest/ButtonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/MouseTest/MouseTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch08/PlafTest/PlafTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/BorderTest/BorderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/Calculator/Calculator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/CheckBoxTest/CheckBoxTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/CircleLayoutTest/CircleLayoutTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ColorChooserTest/ColorChooserTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ComboBoxTest/ComboBoxTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/DataExchangeTest/DataExchangeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/DialogTest/DialogTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/FileChooserTest/FileChooserTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/FileChooserTest/palette.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/GridBagLayoutTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/GridBagLayoutTest/GridBagLayoutTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/GroupLayoutTest/GroupLayoutTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/MenuTest/MenuTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/MenuTest/copy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/MenuTest/cut.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/MenuTest/paste.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/OptionDialogTest/OptionDialogTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/OptionDialogTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/OptionDialogTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/OptionDialogTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/RadioButtonTest/RadioButtonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/SliderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/ace.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/jack.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/king.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/nine.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/queen.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/SliderTest/ten.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/TextComponentTest/TextComponentTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ToolBarTest/ToolBarTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ToolBarTest/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ToolBarTest/exit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ToolBarTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch09/ToolBarTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/AppletApplication/AppletApplication.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/AppletApplication/AppletApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/AppletApplication/AppletFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/AppletApplication/NotHelloWorldApplet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/AppletApplication/java.policy.applet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/Chart/Chart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/Chart/Chart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/Chart/java.policy.applet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/NotHelloWorldApplet/NotHelloWorldApplet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/NotHelloWorldApplet/NotHelloWorldApplet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/PreferencesTest/PreferencesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/PropertiesTest/PropertiesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/ResourceTest/ResourceTest.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/ResourceTest/ResourceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/ResourceTest/ResourceTest.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/ResourceTest/about.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/ResourceTest/about.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/SystemInfo/SystemInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/WebStartCalculator/CalculatorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/WebStartCalculator/WebStartCalculator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/WebStartCalculator/WebStartCalculator.jnlp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/WebStartCalculator/WebStartCalculator.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/WebStartCalculator/calc_icon32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch10/WebStartCalculator/calc_icon64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/BuggyButtonTest/BuggyButtonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/ConsoleWindowTest/ConsoleWindow.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/ConsoleWindowTest/ConsoleWindowTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/EventTracerTest/EventTracer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/EventTracerTest/EventTracerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/ExceptTest/ExceptTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/ExceptTest/manifest.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/ExceptionalTest/ExceptionalTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/LoggingImageViewer/LoggingImageViewer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/RobotTest/ButtonFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/RobotTest/ButtonPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/RobotTest/RobotTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch11/StackTraceTest/StackTraceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/GenericReflectionTest/GenericReflectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/PairTest1/Pair.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/PairTest1/PairTest1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/PairTest2/Pair.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/PairTest2/PairTest2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/PairTest3/Pair.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch12/PairTest3/PairTest3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/CircularArrayQueueTest/CircularArrayQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/LinkedListTest/LinkedListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/MapTest/MapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/PriorityQueueTest/PriorityQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/SetTest/SetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/ShuffleTest/ShuffleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/Sieve/Sieve.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/Sieve/Sieve.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/Sieve/Sieve2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch13/TreeSetTest/TreeSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/AlgorithmAnimation/AlgorithmAnimation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/BlockingQueueTest/BlockingQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/Bounce/Ball.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/Bounce/BallComponent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/Bounce/Bounce.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/BounceThread/Ball.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/BounceThread/BallComponent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/BounceThread/BounceThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/FutureTest/FutureTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SwingThreadTest/SwingThreadTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SwingWorkerTest/SwingWorkerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SynchBankTest/Bank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SynchBankTest/SynchBankTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SynchBankTest/TransferRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SynchBankTest2/Bank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SynchBankTest2/SynchBankTest2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/SynchBankTest2/TransferRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/ThreadPoolTest/ThreadPoolTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/UnsynchBankTest/Bank.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/UnsynchBankTest/TransferRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v1ch14/UnsynchBankTest/UnsynchBankTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/FindDirectories/FindDirectories.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/HrefMatch/HrefMatch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/NIO/NIOTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/ObjectStreamTest/ObjectStreamTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/ObjectStreamTest/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/RandomFileTest/RandomFileTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/RegExTest/RegExTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/SerialCloneTest/SerialCloneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/TextFileTest/TextFileTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/TextFileTest/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch01/ZipTest/ZipTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/DOMTreeTest/DOMTreeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/DOMTreeTest/server.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/GridBagTest/GridBagPane.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/GridBagTest/GridBagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/GridBagTest/fontdialog-schema.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/GridBagTest/fontdialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/GridBagTest/gridbag.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/GridBagTest/gridbag.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/SAXTest/SAXTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/StAXTest/StAXTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/TransformTest/TransformTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/TransformTest/employee.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/TransformTest/makehtml.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/TransformTest/makeprop.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/XMLWriteTest/XMLWriteTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/XPathTest/XPathTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/XPathTest/fontdialog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch02/XPathTest/gridbag.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/EchoServer/EchoServer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/InetAddressTest/InetAddressTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/InterruptibleSocketTest/InterruptibleSocketTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/MailTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/MailTest/MailTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/PostTest/PostTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/SocketTest/SocketTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/ThreadedEchoServer/ThreadedEchoServer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch03/URLConnectionTest/URLConnectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ExecSQL/Authors.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ExecSQL/Books.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ExecSQL/BooksAuthors.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ExecSQL/ExecSQL.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ExecSQL/Publishers.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ExecSQL/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/LDAPTest/LDAPTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/LDAPTest/ldapserver.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/LDAPTest/sample.ldif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/QueryDB/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/QueryDB/QueryDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/QueryDB/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/TestDB/TestDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/TestDB/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ViewDB/ViewDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch04/ViewDB/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/CollationTest/CollationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/CollationTest/EnumCombo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/CollationTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/DateFormatTest/DateFormatTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/DateFormatTest/EnumCombo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/DateFormatTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/NumberFormatTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/NumberFormatTest/NumberFormatTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/LocaleCombo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/Retire.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/Retire.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/RetireResources.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/RetireResources_de.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/RetireResources_zh.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/RetireStrings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/RetireStrings_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch05/Retire/RetireStrings_zh.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ChangeTrackingTest/ChangeTrackingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ClassTree/ClassTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ClassTree/blue-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ClassTree/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ClassTree/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/EditorPaneTest/EditorPaneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/FormatTest/FormatTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/InternalFrameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InternalFrameTest/document.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/InvestmentTable/InvestmentTable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ListRenderingTest/ListRenderingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ListTest/ListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/LongListTest/LongListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ObjectInspectorTest/ObjectInspectorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ProgressBarTest/ProgressBarTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ProgressMonitorInputStreamTest/ProgressMonitorInputStreamTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/ProgressMonitorTest/ProgressMonitorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SimpleTree/SimpleTree.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SpinnerTest/SpinnerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/SplitPaneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/SplitPaneTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/TabbedPaneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/red-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TabbedPaneTest/yellow-ball.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Moons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/TableCellRenderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableCellRenderTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Earth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Jupiter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Mars.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Mercury.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Neptune.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Pluto.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Saturn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/TableRowColumnTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Uranus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableRowColumnTest/Venus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TableTest/TableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch06/TreeEditTest/TreeEditTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/BookTest/BookTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/CompositeTest/CompositeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/DesktopAppTest/DesktopAppTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/DesktopAppTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageIOTest/ImageIOTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageIOTest/e-mail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/ImageListDnDTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/ImageTransferable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200701.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200702.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200703.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200704.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200705.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200706.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200707.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images1/200709.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images2/front.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageListDnDTest/images2/side.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageProcessingTest/ImageProcessingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageProcessingTest/cj2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageProcessingTest/cj8v2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageTransferTest/ImageTransferTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ImageTransferTest/cj2v1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/PrintServiceTest/PrintServiceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/PrintTest/PrintTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/RasterImageTest/RasterImageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/RenderQualityTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/RenderQualityTest/RenderQualityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/RenderQualityTest/clouds.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/RenderQualityTest/face.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SerialTransferTest/SerialTransferTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/ShapeTest/ShapeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SplashScreenTest/SplashScreenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SplashScreenTest/bin/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SplashScreenTest/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/StrokeTest/StrokeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SwingDnDTest/SampleComponents.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SwingDnDTest/SwingDnDTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SystemTrayTest/SystemTrayTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SystemTrayTest/cookie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/SystemTrayTest/fortunes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch07/TextTransferTest/TextTransferTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/ChartBean.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/ChartBean.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBeanBeanInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_COLOR_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_COLOR_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_INVERSE_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_MONO_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/ChartBean_MONO_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/DoubleArrayEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/DoubleArrayEditorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/InverseEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/InverseEditorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ChartBean/com/horstmann/corejava/TitlePositionEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/ChartBean2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/ChartBean2.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2BeanInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2Customizer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_COLOR_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_COLOR_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_MONO_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/CustomizerTest/com/horstmann/corejava/ChartBean2_MONO_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/DamageReporter/DamageReport.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/DamageReporter/DamageReporter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/DamageReporter/foo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/FileNameBean/FileNameBean.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/FileNameBean/FileNameBean.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/FileNameBean/com/horstmann/corejava/FileNameBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ImageViewerBean/ImageViewerBean.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ImageViewerBean/ImageViewerBean.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ImageViewerBean/clouds.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/ImageViewerBean/com/horstmann/corejava/ImageViewerBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/PersistenceDelegateTest/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/PersistenceDelegateTest/PersistenceDelegateTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/PersistentFrameTest/PersistentFrameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch08/PersistentFrameTest/test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AESTest/AESTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AuthTest/AuthTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AuthTest/AuthTest.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AuthTest/SysPropAction.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AuthTest/action.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AuthTest/jaas.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/AuthTest/login.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/CertificateSigner/CertificateSigner.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/Caesar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/Calculator.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/CalculatorFrame.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/CalculatorPanel$1.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/CalculatorPanel$CommandAction.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/CalculatorPanel$InsertAction.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/CalculatorPanel.caesar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/ClassLoaderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/ClassLoaderTest/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/FileReadApplet/FileReadApplet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/FileReadApplet/FileReadApplet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/FileReadApplet/FileReadApplet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/FileReadApplet/applet.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/JAASTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/JAASTest.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/SimpleCallbackHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/SimpleLoginModule.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/SimplePrincipal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/SysPropAction.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/action.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/jaas.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/login.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/JAASTest/password.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/MessageDigestTest/MessageDigestTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/PermissionTest/PermissionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/PermissionTest/PermissionTest.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/PermissionTest/WordCheckPermission.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/RSATest/RSATest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/SignatureTest/SignatureTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/VerifierTest/VerifierTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch09/VerifierTest/VerifierTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/Warehouse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/WarehouseActivator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/WarehouseClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/WarehouseImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/client.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/rmid.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Activation/server.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse1/Warehouse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse1/WarehouseClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse1/WarehouseImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse1/WarehouseServer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse1/client.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/Book.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/Product.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/Warehouse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/WarehouseClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/WarehouseImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/WarehouseServer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/client.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/Warehouse2/server.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/WebService1/WarehouseClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/WebService1/com/horstmann/corejava/Warehouse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/WebService1/com/horstmann/corejava/WarehouseServer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/WebService2/AmazonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch10/WebService2/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ActionListenerFor/ActionListenerFor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ActionListenerFor/ActionListenerInstaller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ActionListenerFor/ButtonFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ActionListenerFor/ButtonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/CompilerTest/ByteArrayJavaClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/CompilerTest/CompilerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/CompilerTest/MapClassLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/CompilerTest/StringBuilderJavaSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/CompilerTest/action.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/CompilerTest/com/horstmann/corejava/ButtonFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/EntryLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/EntryLoggingAgent.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/EntryLoggingAgent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/EntryLoggingAgent.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/Item.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/LogEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/SetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/LogEntry/bcel-5.3-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/BeanInfoAnnotationProcessor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/annotations/Property.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBeanBeanInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBean_COLOR_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBean_COLOR_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBean_INVERSE_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBean_MONO_16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/ChartBean_MONO_32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/DoubleArrayEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/DoubleArrayEditorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/GBC.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/InverseEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/InverseEditorPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/Property/com/horstmann/corejava/TitlePositionEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ScriptTest/ScriptTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ScriptTest/groovy.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ScriptTest/init.sisc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ScriptTest/js.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch11/ScriptTest/sisc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/EmployeeTest/Employee.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/EmployeeTest/Employee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/EmployeeTest/EmployeeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/HelloNativeTest/HelloNative.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/HelloNativeTest/HelloNative.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/HelloNativeTest/HelloNative.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/HelloNativeTest/HelloNativeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/InvocationTest/InvocationTest.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/InvocationTest/Welcome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf1Test/Printf1.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf1Test/Printf1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf1Test/Printf1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf2Test/Printf2.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf2Test/Printf2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf2Test/Printf2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf3Test/Printf3.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf3Test/Printf3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf3Test/Printf3Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf4Test/Printf4.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf4Test/Printf4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Printf4Test/Printf4Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Win32RegKeyTest/Win32RegKey.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Win32RegKeyTest/Win32RegKey.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v2ch12/Win32RegKeyTest/Win32RegKeyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.zip" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Welcome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v1ch02/Welcome/Welcome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-156" />
+    <option name="y" value="-21" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="corejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="corejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="corejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="BigIntegerTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Welcome">
+    <configuration name="BigIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="BigIntegerTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="v1ch03" />
+      <envs />
+    </configuration>
+    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Welcome" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="v1ch02" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Welcome" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BigIntegerTest" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Welcome" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BigIntegerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="479182e6-cdee-4169-a803-1c679f472c3b" name="Default" comment="" />
+      <created>1515487305843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515487305843</updated>
+      <workItem from="1515487307118" duration="72000" />
+      <workItem from="1515487457822" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v1ch02/Welcome/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1ch03/BigIntegerTest/BigIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1ch03/BigIntegerTest/BigIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1ch02/Welcome/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
